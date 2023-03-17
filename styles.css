@@ -1,0 +1,14 @@
+.btn {
+    height: 40px;
+    background-color: coral;
+    color: white;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    box-shadow: 0 2px rgba(124,541,124, 1);
+    transition: 0.4s;
+}
